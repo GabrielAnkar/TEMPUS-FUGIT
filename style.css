@@ -72,10 +72,10 @@ margin-top: 10%;
 
 @font-face {
   font-family: COPRGTB;
-  src: url(SRC/Fonts/COPRGTB.TTF);
+  src: url(Fonts/COPRGTB.TTF);
 }
 
 @font-face {
   font-family: COPRGTL;
-  src: url(SRC/Fonts/COPRGTL.TTF);
+  src: url(Fonts/COPRGTL.TTF);
 }
