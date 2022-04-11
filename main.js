@@ -2,7 +2,7 @@ const html = document.documentElement;
 const canvas = document.querySelector('.ScrollScroll');
 const context = canvas.getContext('2d');
 const currentFrame = index => (
-  `test/${index.toString().padStart(4, '0')}.jpg`
+  `main/test/${index.toString().padStart(4, '0')}.jpg`
 )
 
 
